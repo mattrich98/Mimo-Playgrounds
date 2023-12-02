@@ -1,4 +1,5 @@
-# mimo-htmlprojects
-Mimo HTML Projects
+# Mimo-Playgrounds
+<h1>Mimo Projects</h2>
 
-Most are seperate HTML files but probably I will make seperate folders for HTML + CSS or HTML + CSS + JavaScript.
+<p>Some small learning projects that I thought would be appropriate to upload.<br>
+Most are separate HTML files or HTML+CSS and a little JavaScript.</p> 
